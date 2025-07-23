@@ -173,9 +173,9 @@ header{
         margin-bottom: 50px;
     }
     & .sponsor-images{
-        justify-content: space-between;
+        justify-content: center;
         flex-wrap: wrap;
-        gap: 30px;
+        gap: 50px;
     }
 }
 /* Footer */
